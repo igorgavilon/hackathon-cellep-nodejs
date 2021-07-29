@@ -24,6 +24,7 @@
 .form-control {
     min-width: 400px;
     min-height: 250px;
+    font-size: 1rem;
 }
 
 .button { 

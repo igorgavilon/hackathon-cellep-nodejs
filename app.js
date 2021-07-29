@@ -1,8 +1,6 @@
 const express = require('express')
 // const db = require('./dbConnection')
 
-const sortes = require('./mockup');
-
 const db = require('./dbConnection');
 
 const app = express()
