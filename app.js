@@ -1,5 +1,4 @@
 const express = require('express')
-// const db = require('./dbConnection')
 
 const db = require('./dbConnection');
 
